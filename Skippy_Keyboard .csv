@@ -1,0 +1,21 @@
+Part,Qty,Manufacturer,Original Currency,Original Cost,Cost (USD),Cost (AED)
+Custom Keyboard PCB (5 pcs),5,JLCPCB,USD,24.5,24.5,89.98
+Bottom Case (9600 Resin),1,JLC3DP,USD,24.31,24.31,89.28
+Top Plate (9600 Resin),1,JLC3DP,USD,9.42,9.42,34.59
+Outemu Yellow Jade Silent Switches (80 pcs),80,JHSD,AED,78.38,21.34,78.38
+KBDiy Retro Mac Keycaps,1,KBDiy,AED,91.11,24.81,91.11
+Kailh Hot-swap Sockets (100),100,Kailh,AED,26,7.08,26
+Silicone Feet,4,Generic,AED,8.94,2.43,8.94
+Plate Mount Stabilizers,5,iTLY,AED,8.89,2.42,8.89
+EC11 Rotary Encoder,1,Generic,AED,20.89,5.69,20.89
+Aluminum Knob,1,Generic,AED,12.28,3.34,12.28
+M2x4 Screws,50,Generic,AED,4.64,1.26,4.64
+M2 Heat Inserts,100,Generic,AED,3.75,1.02,3.75
+1.3in SSH1106 OLED,1,Generic,AED,15.74,4.29,15.74
+RP2040 Pico Type-C,1,RP2040,AED,11.79,3.21,11.79
+SK6812 MINI-E LEDs (100),100,SK6812,AED,25.63,6.98,25.63
+,,,,,,
+,,,TOTAL,,142.1,521.89
+,,,,,,
+,,,SHIPPING (JLCPCB),USD 48.00,48,176.28
+,,,GRAND TOTAL,,190.1,698.17
