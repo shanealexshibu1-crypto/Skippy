@@ -65,6 +65,29 @@ The OLED displays the current Words Per Minute (WPM) using QMK's WPM feature, ac
 + Rotate counterclockwise: Decrease system volume
 + Press the encoder: Mute or unmute the system volume
 
+### Firmware Compilation and Flashing
+
+
+The firmware for Skippy is located in the `Firmware` folder. It contains the custom QMK files used for the keyboard, including:
+
+- `keyboard.json`
+- `config.h`
+- `rules.mk`
+- `keymap.c`
+
+### Compiling
+
+To compile the firmware, copy the `Firmware` folder into your local QMK `keyboards` directory and rename it to `skippy` if needed.
+
+Then run:
+
+```bash
+qmk compile -kb skippy -km default
+```
+
+### Flashing
+
+Since Skippy uses an RP2040, hold the **BOOTSEL** button while plugging the keyboard into your computer. A drive named **RPI-RP2** will appear. Copy the generated `.uf2` file onto the drive, and the keyboard will automatically reboot with the new firmware.
 
 
     
