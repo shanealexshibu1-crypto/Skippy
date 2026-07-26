@@ -48,29 +48,22 @@ A fully custom mechanical keyboard designed for mac from the ground up, includin
 
 ## Firmware
 
-custom firmware using QMK features include:
-### RGB lighting:
-  + theme 1(no light)
-  + theme 2(white reactive ripple effect)
-  + theme 3(rgb loop)
+The keyboard runs custom QMK firmware with the following features:
 
+### RGB Lighting
++ Theme 1: RGB Off
++ Theme 2: White reactive ripple effect on key press
++ Theme 3: RGB rainbow loop animation
+### OLED Display
 
-### Oled screen animation
-
-
+The OLED displays the current Words Per Minute (WPM) using QMK's WPM feature, accompanied by a smooth wave animation.
 
 <img width="1029" height="551" alt="Screenshot 2026-07-26 at 7 34 46 AM" src="https://github.com/user-attachments/assets/0d2793b5-3119-4164-8eab-d461cdc1a863" />
 
-
- 
-
-
-
 ### Rotary Encoder
-
-
-Controls volume and when pressed mutes the system's volume
-
++ Rotate clockwise: Increase system volume
++ Rotate counterclockwise: Decrease system volume
++ Press the encoder: Mute or unmute the system volume
 
 
 
