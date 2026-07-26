@@ -46,6 +46,34 @@ A fully custom mechanical keyboard designed for mac from the ground up, includin
   + M2 screws (legth=4mm)
   + Threaded inserts (length=4.5mm)
 
+## Firmware
+
+custom firmware using QMK features include:
+### RGB lighting:
+  + theme 1(no light)
+  + theme 2(white reactive ripple effect)
+  + theme 3(rgb loop)
+
+
+### Oled screen animation
+
+
+
+<img width="1029" height="551" alt="Screenshot 2026-07-26 at 7 34 46 AM" src="https://github.com/user-attachments/assets/0d2793b5-3119-4164-8eab-d461cdc1a863" />
+
+
+ 
+
+
+
+### Rotary Encoder
+
+
+Controls volume and when pressed mutes the system's volume
+
+
+
+
     
 ## Gallery
 
