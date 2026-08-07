@@ -152,3 +152,31 @@ Since Skippy uses an RP2040, hold the **BOOTSEL** button while plugging the keyb
 
 
 ## BOM
+## Bill of Materials (BOM)
+
+| Part | Qty | PCS per Qty | Manufacturer | Cost (USD) | Cost (AED) | Purchase Link | Purchase Place |
+|---|---:|---:|---|---:|---:|---|---|
+| Custom Keyboard PCB | 5 | 1 | JLCPCB | $24.50 | AED 89.98 | — | JLCPCB |
+| Bottom Case (9600 Resin) | 1 | 1 | JLC3DP | $24.31 | AED 89.28 | — | JLC3DP |
+| Top Plate (9600 Resin) | 1 | 1 | JLC3DP | $9.42 | AED 34.59 | — | JLC3DP |
+| Outemu Yellow Jade Silent Switches | 1 | 80 | JHSD | $21.34 | AED 78.38 | [link](https://ar.aliexpress.com/item/1005011633066141.html) | AliExpress |
+| KBDiy Retro Mac Keycaps | 1 | 138 | KBDiy | $24.81 | AED 91.11 | [link](https://ar.aliexpress.com/item/1005008405001968.html) | AliExpress |
+| Kailh Hot-swap Sockets | 1 | 100 | Kailh | $7.08 | AED 26.00 | [link](https://ar.aliexpress.com/item/1005009594313632.html) | AliExpress |
+| Silicone Feet | 1 | 4 | Generic | $2.43 | AED 8.94 | [link](https://ar.aliexpress.com/item/1005012049221237.html) | AliExpress |
+| Plate Mount Stabilizers | 1 | 5 | iTLY | $2.42 | AED 8.89 | [link](https://ar.aliexpress.com/item/1005010775921825.html) | AliExpress |
+| EC11 Rotary Encoder | 1 | 5 | Generic | $5.69 | AED 20.89 | [link](https://ar.aliexpress.com/item/1005008716778661.html) | AliExpress |
+| Aluminum Knob | 1 | 1 | Generic | $3.34 | AED 12.28 | [link](https://ar.aliexpress.com/item/1005008625986032.html) | AliExpress |
+| M2×4 Screws | 1 | 50 | Generic | $1.26 | AED 4.64 | [link](https://ar.aliexpress.com/item/1005005618746295.html) | AliExpress |
+| M2 Heat Inserts | 1 | 100 | Generic | $1.02 | AED 3.75 | [link](https://ar.aliexpress.com/item/1005008897571758.html) | AliExpress |
+| 1.3" SSH1106 OLED | 1 | 1 | Generic | $4.29 | AED 15.74 | [link](https://ar.aliexpress.com/item/1005007499971422.html) | AliExpress |
+| RP2040 Pico Type-C | 1 | 1 | RP2040 | $3.21 | AED 11.79 | [link](https://ar.aliexpress.com/item/1005008948799927.html) | AliExpress |
+| SK6812 MINI-E LEDs | 1 | 100 | SK6812 | $6.98 | AED 25.63 | [link](https://ar.aliexpress.com/item/1005005193716172.html) | AliExpress |
+| 1N4148 High-Speed Switching Diodes | 1 | 100 | TRIARK | $1.02 | AED 3.75 | [link](https://ar.aliexpress.com/item/1005009379098965.html) | AliExpress |
+
+### Cost
+
+| | USD | AED |
+|---|---:|---:|
+| Parts Total | $142.10 | AED 521.89 |
+| JLCPCB Shipping | $48.00 | AED 176.28 |
+| **Grand Total** | **$190.10** | **AED 698.17** |
