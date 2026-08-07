@@ -149,3 +149,6 @@ Since Skippy uses an RP2040, hold the **BOOTSEL** button while plugging the keyb
 
 <img width="1276" height="719" alt="Render" src="https://github.com/user-attachments/assets/0f8eb0da-3cde-44ba-8581-0c32aad06206" />
 
+
+
+## BOM
