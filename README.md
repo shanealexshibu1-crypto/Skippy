@@ -94,14 +94,6 @@ Since Skippy uses an RP2040, hold the **BOOTSEL** button while plugging the keyb
 ## Gallery
 
 
-
-#### AI generated Mock up
-
-
-<img width="735" height="263" alt="Screenshot 2026-07-10 at 1 04 04 AM" src="https://github.com/user-attachments/assets/a3a266cd-49bc-430b-a05c-ec646eedfb89" />
-
-
-
 #### Image from Keyboard Layout Editor
 
 
